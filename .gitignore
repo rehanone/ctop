@@ -1,4 +1,11 @@
-ctop
-.idea
+# Binaries
+/ctop
+/ctop.exe
+dist
+bin
+ctop-stdin*
 /vendor/
 *.log
+
+.idea/
+.vscode/
